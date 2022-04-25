@@ -5,4 +5,3 @@
 <h3> CREATE A REGISTRATION FORM WHOSE DATA DISPLAY IN SAME PAGE <h3>
 
 <h2> Live Demo - </h2>
-https://quizzical-shockley-fcef48.netlify.app/
